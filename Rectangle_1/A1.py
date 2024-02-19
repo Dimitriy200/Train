@@ -1,15 +1,15 @@
  
 
-# arr1 = input("1 polka:").split()
-# arr2 = input("2 polka:").split()
-# var = input("3 polka:")
+arr1 = input("1 polka:").split()
+arr2 = input("2 polka:").split()
+var = input("3 polka:")
 
-# var = int(var)
-# for i in range(len(arr1)):
-#     arr1.insert(i, int(arr1[i]))
+var = int(var)
+for i in range(len(arr1)):
+    arr1.insert(i, int(arr1[i]))
    
-# for i in range(len(arr2)):
-#     arr2.insert(i, int(arr2[i]))
+for i in range(len(arr2)):
+    arr2.insert(i, int(arr2[i]))
 
 
 def bison(arr1: list, arr2: list, var):
