@@ -1,5 +1,5 @@
 import pytest
-import A1
+import Rectangle_1.Line_A.A1 as A1
 
 
 def test_1():
